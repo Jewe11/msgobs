@@ -1,10 +1,13 @@
 // ==UserScript==
-// @name        Message Observers
-// @namespace   msgobs
-// @include     https://uview.test.instructure.com/*
-// @include     https://uview.instructure.com/*
-// @version     v0.06.5
-// @grant       none
+  //@author      sdjrice jewe11
+  //@description A JavaScript modification for the Canvas learning management system which adds the ability to message the observers of students on the Inbox and Gradebook/Marksbook pages.
+  //@name        Message Observers
+  //@require     http://code.jquery.com/jquery-1.7.2.min.js
+  //@namespace   msgObs
+  //@include     https://uview.test.instructure.com/*
+  //@include     https://uview.instructure.com/*
+  //@version     vAlpha
+  //@grant       none
 // ==/UserScript==
 
 let msgobs = {
