@@ -1,5 +1,5 @@
 # msgobs | Message Observers
-A JavaScript modification for the Canvas learning management system which adds the ability to message the observers of students on the Inbox and Gradebook/Marksbook pages.
+A JavaScript modification for the Canvas learning management system which adds the ability to message the observers of students on the Inbox and Gradebook pages.
 
 ## Changelog
 
